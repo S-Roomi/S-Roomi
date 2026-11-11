@@ -7,7 +7,7 @@ Software developer building full-stack apps, tracking/automation tools, and syst
 - **[giftcard-mgr](https://github.com/S-Roomi/giftcard-mgr)** — Dockerized gift card manager (TypeScript)
 - **[bit-detection](https://github.com/S-Roomi/bit-detection)** — Python bit/signal detection project
 - **[ath](https://github.com/S-Roomi/ath)** — Go project
-- **[sin-site](https://github.com/S-Roomi/sin-site)** — personal site ([live](https://sin-site-teal.vercel.app))
+- **[sin-site](https://github.com/S-Roomi/sin-site)** — personal site ([live](https://sinaroomi.com))
 
 ## 🛠️ Tech I use
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@ Software developer building full-stack apps, tracking/automation tools, and syst
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📫 Find me
-- Portfolio: [sin-site-teal.vercel.app](https://sin-site-teal.vercel.app)
+- Portfolio: [sinaroomi.com](https://sinaroomi.com)
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Roomi&show_icons=true&theme=default)
