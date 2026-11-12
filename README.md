@@ -13,7 +13,3 @@ If anything I'm working on (or have worked on) interests you, feel free to reach
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## 📫 Find me
-- Portfolio: [sinaroomi.com](https://sinaroomi.com)
-- LinkedIn: [sina-roomi](https://www.linkedin.com/in/sina-roomi)
