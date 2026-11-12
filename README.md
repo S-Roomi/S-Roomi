@@ -17,6 +17,3 @@ Software developer building full-stack apps, tracking/automation tools, and syst
 ## 📫 Find me
 - Portfolio: [sinaroomi.com](https://sinaroomi.com)
 - LinkedIn: [sina-roomi](https://www.linkedin.com/in/sina-roomi)
-
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Roomi&show_icons=true&theme=default)
