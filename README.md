@@ -1,4 +1,4 @@
-# Hi, I'm Sina 👋
+# Hi, I'm Sina
 
 Software developer building full-stack apps, tracking/automation tools, and systems-level projects. I enjoy making useful applications that keep everyday life simple.
 
